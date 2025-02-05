@@ -1,5 +1,5 @@
 # Live-host-Scanning-
-
+Tools : Netdiscover, Arp scanning, Fping scanning, namp scanning, Angery IP scan
 ## Project Sumarry
 Using different scanning tools, scan ARP requests or packets to identify live hosts in the LAN
 
@@ -49,5 +49,10 @@ Live Hosts scanning using namp Command-line
 
 ![Screenshot 2025-01-26 130629](https://github.com/user-attachments/assets/710d8076-cb83-4bc9-be91-921f407cf8bb)
 
+
+## Angery ip sacnning 
+Live Hosts scanning using Angery ip scan
+
+![Screenshot 2025-02-05 141002](https://github.com/user-attachments/assets/b781b505-5b7e-46b1-a98c-94039e2f16f7)
 
 
